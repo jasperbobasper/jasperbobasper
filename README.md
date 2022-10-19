@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### About me: 
 
-I am a software engineering student at 42 Wolfsburg, aspiring front-end or full-stack developer! 
+I am a software engineering student at 42 Wolfsburg, aspiring web or app developer! 
 
 - 🔭 I’m currently working on school projects and I always have a personal project on the side
 - 🌱 I’m currently learning HTML/CSS and Java
