@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/1BgsIepcDbmim0ihCZ/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
