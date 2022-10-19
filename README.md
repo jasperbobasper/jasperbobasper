@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/3o6fIZccObf5LrK7UQ/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 ### About me: 
 
-I am a software engineering student at 42 Wolfsburg
+I am a software engineering student at 42 Wolfsburg, aspiring front-end or full-stack developer! 
 
-- 🔭 I’m currently working on school projects and a few different personal projects!
-- 🌱 I’m currently learning C++ and Java, but I'm always looking to expand my library of languages
+- 🔭 I’m currently working on school projects and I always have a personal project on the side
+- 🌱 I’m currently learning HTML/CSS and Java
 - 📫 How to reach me: send me an email at jaspfannkuchen@gmail.com or contact me through my LinkedIn profile
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I can play the trumpet 
