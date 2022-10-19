@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="www.linkedin.com/in/jasper-pfannkuchen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
 </div>
 <h1>
   hey there
