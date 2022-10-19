@@ -32,19 +32,19 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/1BgsIepcDbmim0ihCZ/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
 ### About me: 
 
-I am a software engineering student at 42 Wolfsburg, aspiring web or app developer! 
+I am a software engineering student at 42 Wolfsburg and an aspiring web or app developer! 
 
-- 🔭 I’m currently working on school projects and I always have a personal project on the side
+- 🔭 I’m currently working on school projects plus I always have a personal project on the side
 - 🌱 I’m currently learning HTML/CSS and Java
 - 📫 How to reach me: through any of the badges on my profile
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I can play the trumpet 
+- ⚡ Fun fact: I can play the trumpet and the bass guitar
 
 
