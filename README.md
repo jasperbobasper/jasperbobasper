@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <a href="www.linkedin.com/in/jasper-pfannkuchen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="discordapp.com/users/416943663227076618">
+    <img src="https://img.shields.io/badge/Discord-blueviolet?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+  </a>
 </div>
 </div>
 <h1>
