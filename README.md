@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3o6fIZccObf5LrK7UQ/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/jasper-pfannkuchen">
+  <a href="https://www.linkedin.com/in/jasper-pfannkuchen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="discordapp.com/users/416943663227076618">
+  <a href="https://discordapp.com/users/416943663227076618">
     <img src="https://img.shields.io/badge/Discord-blueviolet?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
   <a href="mailto: jaspfannkuchen@gmail.com">
