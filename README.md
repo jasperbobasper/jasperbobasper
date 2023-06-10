@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 I am a software engineering student at 42 Wolfsburg and an aspiring web or app developer! 
 
-- 🔭 I’m currently working on school projects plus I always have a personal project on the side
+- 🔭 I’m currently working on my final school project, plus I always have a personal project on the side
 - 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me: through any of the badges at the top of my profile
 - 😄 Pronouns: they/them
