@@ -48,6 +48,7 @@ I am a software engineering student at 42 Wolfsburg and an aspiring web or app d
 - ⚡ Fun fact: I can play the trumpet and the bass guitar
 
 Here are some of the projects I have completed during my time at 42, sorted from most recent to oldest
+⚠️ Some repositories are still under construction ⚠️
 
 | Project Name      | Description                                           | Language/s         |
 |-------------------|-------------------------------------------------------|------------------  |
