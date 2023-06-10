@@ -47,4 +47,19 @@ I am a software engineering student at 42 Wolfsburg and an aspiring web or app d
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I can play the trumpet and the bass guitar
 
+Here are some of the projects I have completed during my time at 42, sorted from most recent to oldest
+
+| Project Name      | Description                                           | Language/s         |
+|-------------------|-------------------------------------------------------|------------------  |
+| <a href="https://github.com/jasperbobasper/inception">Inception</a>         | A custom Docker LEMP Stack container                  | Bash, SQL          |
+| <a href="https://github.com/jasperbobasper/inception">ft_irc            | IRC server, group project                             | C++                | 
+| C++ modules 0-9   | A series of C++ exercises increasing in difficulty    | C++                | 
+| <a href="https://github.com/jasperbobasper/Cub3d">Cub3d</a>              | 3d minigame using Raycasting, group project           | C                  |
+| <a href="https://github.com/jasperbobasper/Philosophers">Philosophers</a>       | Logic and multithreading challenge                    | C                  |
+| <a href="https://github.com/jasperbobasper/Push_swap">Push_swap</a>          | Number sorting algorithms                             | C                  |
+| <a href="https://github.com/jasperbobasper/Pipex ">Pipex</a>              | Replicating the pipe function                         | C                  | 
+| <a href="https://github.com/jasperbobasper/So_long">So_long</a>            | 2d minigame                                           | C                  |
+| <a href="https://github.com/jasperbobasper/ft_printf">ft_printf</a>          | Replicating the printf function                       | C                  |
+| <a href="https://github.com/jasperbobasper/get_next_line ">get_next_line</a>      | Returning line-by-line from an input file             | C                  |
+| <a href="https://github.com/jasperbobasper/inception">Libft</a>              | Recreating functiond from the standard C library      | C                  |
 
