@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### About me: 
 
-I am a software engineering student at 42 Wolfsburg and an aspiring web or app developer! 
+I recently finished my studies at 42 Wolfsburg and I'm now looking for work! 
 
 - 🔭 I’m currently working on my portfolio and some other personal projects
 - 🌱 I’m currently learning Python
