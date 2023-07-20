@@ -55,7 +55,7 @@ Here are some of the projects I have completed during my time at 42, sorted from
 |-------------------|-------------------------------------------------------|------------------  |----------|
 | <a href="https://github.com/jasperbobasper/inception">Inception</a>         | A custom Docker LEMP Stack container                  | Bash, SQL          | 100% |
 | <a href="https://github.com/jasperbobasper/ft_irc">ft_irc</a>            | IRC server, group project                             | C++                | 125% |
-| C++ modules 0-9   | A series of C++ exercises increasing in difficulty    | C++                | 100% |
+| <a href="https://github.com/jasperbobasper/CPP">C++ modules 0-9</a>   | A series of C++ exercises increasing in difficulty    | C++                | 100% |
 | <a href="https://github.com/jasperbobasper/Cub3d">Cub3d</a>              | 3d minigame using Raycasting, group project           | C                  | 105% |
 | <a href="https://github.com/jasperbobasper/Philosophers">Philosophers</a>       | Logic and multithreading challenge                    | C                  | 100% |
 | <a href="https://github.com/jasperbobasper/Push_swap">Push_swap</a>          | Number sorting algorithms                             | C                  | 96% |
