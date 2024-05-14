@@ -44,7 +44,7 @@ I recently finished my studies at 42 Wolfsburg and I'm now looking for work!
 Current Project: <a href="https://github.com/jasperbobasper/deputychef">Deputy Chef</a>
 
 - 🔭 I’m currently working on a big personal project in Unity
-- 🌱 I’m planning to publish one of the custom extensions I am writing for RPG Creation Kit from the Uty asset store 
+- 🌱 I’m planning to release of the custom extensions I am writing for RPG Creation Kit (from the Unity asset store) here on my GitHub 
 - 📫 How to reach me: through any of the badges at the top of my profile
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I can play the trumpet and the bass guitar
