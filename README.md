@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 
 I recently finished my studies at 42 Wolfsburg and I'm now looking for work! 
 
-- 🔭 I’m currently working on a big personal project in Unity
-- 🌱 I’m planning to release of the custom extensions I am writing for RPG Creation Kit (from the Unity asset store) here on my GitHub 
+- 🔭 I’m currently working on a big personal project in Unreal Engine
 - 📫 How to reach me: through any of the badges at the top of my profile
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I can play the trumpet and the bass guitar
